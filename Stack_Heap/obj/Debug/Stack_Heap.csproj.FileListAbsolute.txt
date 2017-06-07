@@ -1,0 +1,30 @@
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\bin\Debug\Stack_Heap.exe.config
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\obj\Debug\Stack_Heap.exe
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\obj\Debug\Stack_Heap.pdb
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\bin\Debug\Stack_Heap.exe
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\bin\Debug\Stack_Heap.pdb
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\obj\Debug\Stack_Heap.csprojResolveAssemblyReference.cache
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\obj\Debug\Stack_Heap.Form1.resources
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\obj\Debug\Stack_Heap.Properties.Resources.resources
+E:\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\obj\Debug\Stack_Heap.csproj.GenerateResource.Cache
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\bin\Debug\Stack_Heap.exe.config
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\obj\Debug\Stack_Heap.exe
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap\Stack_Heap\obj\Debug\Stack_Heap.pdb
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\bin\Debug\Stack_Heap.exe.config
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.exe
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.pdb
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\bin\Debug\Stack_Heap.exe
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\bin\Debug\Stack_Heap.pdb
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.csprojResolveAssemblyReference.cache
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.Form1.resources
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.Properties.Resources.resources
+E:\D2E\工程文件\VS2012 工程文件\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.csproj.GenerateResource.Cache
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\bin\Debug\Stack_Heap.exe.config
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.exe
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.pdb
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\bin\Debug\Stack_Heap.exe
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\bin\Debug\Stack_Heap.pdb
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.csprojResolveAssemblyReference.cache
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.Form1.resources
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.Properties.Resources.resources
+D:\code\Stack_Heap And最小外接矩形算法\Stack_Heap\obj\Debug\Stack_Heap.csproj.GenerateResource.Cache
